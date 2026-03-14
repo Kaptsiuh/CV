@@ -1,22 +1,22 @@
 {
   "profile": [
-    "I am a dedicated full-stack developer with over two years of hands-on experience in building dynamic and responsive web applications. My primary expertise lies in frontend development using React and its advanced frameworks such as Next.js. I have a strong passion for creating user-friendly interfaces and seamless user experiences, leveraging my deep understanding of JavaScript, HTML, and CSS."
+    "Frontend Developer with 4+ years of experience building production web applications. Specialize in React and Next.js, with a strong focus on creating scalable component libraries and design systems using Storybook. Passionate about translating business requirements into clean, maintainable code and ensuring high-performance user experiences. Recently contributed to a full-cycle development of an e-commerce and CRM platform for a leading Apple repair service in Poland."
   ],
   "details": [
     {
       "type": "text",
       "name": "Country",
-      "value": "Poland"
+      "value": "Belarus"
     },
     {
       "type": "text",
       "name": "City",
-      "value": "Łódź"
+      "value": "Gomel"
     },
     {
       "type": "tel",
       "name": "Phone",
-      "value": "+48 571 209 966"
+      "value": "+375 29 133 56 66"
     },
     {
       "type": "email",
@@ -26,7 +26,7 @@
     {
       "type": "telegram",
       "name": "Telegram",
-      "value": "DzmitryKap"
+      "value": "bowdzi"
     },
     {
       "type": "github",
@@ -36,45 +36,46 @@
   ],
   "skills": [
     {
-      "name": "HTML/CSS",
-      "value": "Strong understanding of HTML markup and CSS styling, including responsive design (using media queries, flexbox, or CSS grid layouts), CSS preprocessors (e.g., Sass), and CSS frameworks (e.g., Bootstrap, Tailwind CSS)"
+      "name": "Frontend Core",
+      "value": "JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Sass/SCSS, CSS Modules, Bootstrap, Responsive Design"
     },
     {
-      "name": "JavaScript/TypeScript",
-      "value": "Proficient in JavaScript/TypeScript programming, with a strong understanding of its core concepts, features, and modern ES6+ syntax"
+      "name": "Frameworks & Libraries",
+      "value": "React, Next.js, Angular, React Hooks, React Query, Context API, Zustand, Redux Toolkit, Redux Thunk, Storybook"
     },
     {
-      "name": "React/Next",
-      "value": "Proficient in React library, including its component-based architecture, virtual DOM, and state management concepts. Experienced in building dynamic user interfaces and scalable web applications with its popular frameworks such as Next.js, leveraging their server-side rendering (SSR) capabilities, routing, and API integration features to create high-performance and SEO-friendly applications"
+      "name": "API & Integration",
+      "value": "RESTful APIs, GraphQL, Async/Await, Axios, Fetch API"
     },
     {
-      "name": "REST API/GraphQL",
-      "value": "Understanding of RESTful principles and experience in consuming and integrating data from APIs, including handling requests, authentication, data manipulation, and implementing GraphQL queries and mutations."
+      "name": "Tools & Workflow",
+      "value": "Git (GitHub/GitLab), feature branch workflow, Vite, Webpack, Prisma, Supabase, Figma"
     }
   ],
   "education": [
     {
-      "name": "Belarusian State University of Food and Chemical Technologies (2015-2020). “Technology of Fermentation and Winemaking",
+      "name": "Belarusian State University of Food and Chemical Technologies | 2015 – 2020. “Technology of Fermentation and Winemaking",
       "value": "https://www.bgut.by/tf/tpp/"
     },
     {
-      "name": "RS Schools Course 2022 Q2",
+      "name": "Frontend Development Course | RS School (The Rolling Scopes) | 2022",
       "value": "https://app.rs.school/certificate/ad6yi6ml"
     }
   ],
   "experience": [
     {
       "name": "Frontend Developer",
-      "project": "Online store for sale and repair of Apple Equipment",
+      "project": "Online store for sale and repair of Apple Equipment | thechoice.pl (Warsaw, Poland)",
       "description": "Developed and maintained a dynamic e-commerce platform, optimizing the user interface for a seamless and engaging customer experience.",
       "path": "https://thechoice.pl/pl",
       "startAt": "2024-06-01T00:00:00.000Z",
-      "endAt": "2024-12-01T00:00:00.000Z",
+      "endAt": "2025-03-01T00:00:00.000Z",
       "role": [
-        "Designed and developed reusable components using Next.js and React.",
-        "Collaborated closely with UI/UX designers to implement an intuitive and responsive user interface.",
-        "Integrated real-time order tracking and a customer notification system to enhance user engagement.",
-        "Optimized frontend performance to improve load times and overall user experience."
+        "Designed and developed a reusable component library from scratch using Next.js, TypeScript, and Tailwind CSS, significantly speeding up the development of new pages and features.",
+        "Built and maintained the project's Storybook, documenting UI components to ensure consistency across the application and facilitate collaboration between developers and designers.",
+        "Integrated frontend components with the backend and CRM system, enabling seamless submission of customer repair requests directly from the website's interactive forms.",
+        "Implemented responsive UI for key sections including the transparent price list, service booking flow, and 'FAQ' page, ensuring a smooth experience across all devices.",
+        "Collaborated closely with UI/UX designers to translate Figma mockups into pixel-perfect, high-performance React components."
       ],
       "stack": ["React", "Next.js", "Supabase", "Prisma", "Tailwind"]
     }
