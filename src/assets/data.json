@@ -1,6 +1,6 @@
 {
   "profile": [
-    "Frontend Developer with 4+ years of experience building production web applications. Specialize in React and Next.js, with a strong focus on creating scalable component libraries and design systems using Storybook. Passionate about translating business requirements into clean, maintainable code and ensuring high-performance user experiences. Recently contributed to a full-cycle development of an e-commerce and CRM platform for a leading Apple repair service in Poland."
+    "Frontend Developer with 4+ years of experience building production web applications. Specialize in React and Next.js, with a strong focus on creating scalable component libraries and design systems using Storybook. A collaborative team player experienced in working within agile environments using tools like Jira and Slack to streamline communication and project tracking. Passionate about translating business requirements into clean, maintainable code and ensuring high-performance user experiences. Recently contributed to the full-cycle development of an e-commerce and CRM platform for a leading Apple repair service in Poland."
   ],
   "details": [
     {
@@ -37,19 +37,23 @@
   "skills": [
     {
       "name": "Frontend Core",
-      "value": "JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Sass/SCSS, CSS Modules, Bootstrap, Responsive Design"
+      "value": "JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, various UI libs, Responsive Design"
     },
     {
       "name": "Frameworks & Libraries",
-      "value": "React, Next.js, Angular, React Hooks, React Query, Context API, Zustand, Redux Toolkit, Redux Thunk, Storybook"
+      "value": "React, Next.js, Redux Toolkit, Redux Thunk, Storybook"
     },
     {
       "name": "API & Integration",
-      "value": "RESTful APIs, GraphQL, Async/Await, Axios, Fetch API"
+      "value": "RESTful APIs, GraphQL"
     },
     {
       "name": "Tools & Workflow",
-      "value": "Git (GitHub/GitLab), feature branch workflow, Vite, Webpack, Prisma, Supabase, Figma"
+      "value": "Git, Git flow, Jira, Slack, Vite, Webpack, Supabase, Figma"
+    },
+    {
+      "name": "AI",
+      "value": "GPT, Deepseek, Gemini API"
     }
   ],
   "education": [
@@ -60,6 +64,14 @@
     {
       "name": "Frontend Development Course | RS School (The Rolling Scopes) | 2022",
       "value": "https://app.rs.school/certificate/ad6yi6ml"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English: B2"
+    },
+    {
+      "name": "Polish: B2"
     }
   ],
   "experience": [
@@ -77,7 +89,7 @@
         "Implemented responsive UI for key sections including the transparent price list, service booking flow, and 'FAQ' page, ensuring a smooth experience across all devices.",
         "Collaborated closely with UI/UX designers to translate Figma mockups into pixel-perfect, high-performance React components."
       ],
-      "stack": ["React", "Next.js", "Supabase", "Prisma", "Tailwind"]
+      "stack": ["React", "Next.js", "Supabase", "Tailwind", "MUI"]
     }
   ]
 }
